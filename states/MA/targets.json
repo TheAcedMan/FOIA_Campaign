@@ -1,0 +1,1757 @@
+[
+  {
+    "name": "Abington",
+    "website": "http://www.abingtonma.gov",
+    "email": "lmadams@abingtonma.gov"
+  },
+  {
+    "name": "Acton",
+    "website": "http://www.acton-ma.gov/",
+    "email": "ltomyl@acton-ma.gov"
+  },
+  {
+    "name": "Acushnet",
+    "website": "http://www.acushnet.ma.us/",
+    "email": "lleonard@acushnet.ma.us"
+  },
+  {
+    "name": "Adams",
+    "website": "https://www.town.adams.ma.us/",
+    "email": "ddunlap@town.adams.ma.us"
+  },
+  {
+    "name": "Agawam",
+    "website": "http://www.agawam.ma.us/",
+    "email": "mmccarthy@agawam.ma.us"
+  },
+  {
+    "name": "Alford",
+    "website": "http://townofalford.org/",
+    "email": "offices@townofalford.org"
+  },
+  {
+    "name": "Amesbury",
+    "website": "http://www.amesburyma.gov/",
+    "email": "premoa@amesburyma.gov"
+  },
+  {
+    "name": "Amherst",
+    "website": "http://www.amherstma.gov/",
+    "email": "puppeld@amherstma.gov"
+  },
+  {
+    "name": "Andover",
+    "website": "http://andoverma.gov/",
+    "email": "lmurphy@andoverma.gov"
+  },
+  {
+    "name": "Aquinnah",
+    "website": "http://www.aquinnah-ma.gov",
+    "email": "aqbos@comcast.net"
+  },
+  {
+    "name": "Arlington",
+    "website": "https://www.arlingtonma.gov/",
+    "email": "msullivan@town.arlington.ma.us"
+  },
+  {
+    "name": "Ashburnham",
+    "website": "http://www.ashburnham-ma.gov/",
+    "email": "sturcotte@ashburnham-ma.gov"
+  },
+  {
+    "name": "Ashby",
+    "website": "http://www.ci.ashby.ma.us/",
+    "email": "tabos@ashbyma.gov"
+  },
+  {
+    "name": "Ashfield",
+    "website": "http://www.ashfield.org",
+    "email": "adminassistant@ashfield.org"
+  },
+  {
+    "name": "Ashland",
+    "website": "http://www.AshlandMass.Com",
+    "email": "srobie@ashlandmass.com"
+  },
+  {
+    "name": "Athol",
+    "website": "http://www.athol-ma.gov/",
+    "email": "selectmen@townofathol.org"
+  },
+  {
+    "name": "Attleboro",
+    "website": "http://www.cityofattleboro.us",
+    "email": "legalsecretary@cityofattleboro.us"
+  },
+  {
+    "name": "Auburn",
+    "website": "https://www.auburnma.gov/",
+    "email": "skwiatkowski@town.auburn.ma.us"
+  },
+  {
+    "name": "Avon",
+    "website": "https://www.avon-ma.gov/",
+    "email": "sfaro@avon-ma.gov"
+  },
+  {
+    "name": "Ayer",
+    "website": "http://www.ayer.ma.us/",
+    "email": "cantonellis@ayer.ma.us"
+  },
+  {
+    "name": "Barnstable",
+    "website": "http://town.barnstable.ma.us/",
+    "email": "margaret.flynn@town.barnstable.ma.us"
+  },
+  {
+    "name": "Barre",
+    "website": "https://www.townofbarre.com/",
+    "email": "bos@townofbarre.com"
+  },
+  {
+    "name": "Becket",
+    "website": "http://www.townofbecket.org",
+    "email": "secretary@townofbecket.org"
+  },
+  {
+    "name": "Bedford",
+    "website": "https://www.bedfordma.gov/",
+    "email": "cdoyle@bedfordma.gov"
+  },
+  {
+    "name": "Belchertown",
+    "website": "http://www.belchertown.org/",
+    "email": "gbrougham@belchertown.org"
+  },
+  {
+    "name": "Bellingham",
+    "website": "https://www.bellinghamma.org/",
+    "email": "jbokoski@bellinghamma.org"
+  },
+  {
+    "name": "Belmont",
+    "website": "https://www.belmont-ma.gov/",
+    "email": "selectmen@belmont-ma.gov"
+  },
+  {
+    "name": "Berkley",
+    "website": "http://www.townofberkleyma.com",
+    "email": "berkleybos@yahoo.com"
+  },
+  {
+    "name": "Berlin",
+    "website": "http://www.townofberlin.com/",
+    "email": "selectmen@townofberlin.com"
+  },
+  {
+    "name": "Bernardston",
+    "website": "http://www.townofbernardston.org/",
+    "email": "bos@townofbernardston.or"
+  },
+  {
+    "name": "Beverly",
+    "website": "http://www.beverlyma.gov/",
+    "email": "gmlewis@beverlyma.gov"
+  },
+  {
+    "name": "Billerica",
+    "website": "http://www.town.billerica.ma.us/",
+    "email": "jlegallo@town.billerica.ma.us"
+  },
+  {
+    "name": "Blackstone",
+    "website": "https://www.townofblackstone.org/",
+    "email": "slemoine@townofblackstone.org"
+  },
+  {
+    "name": "Blandford",
+    "website": "https://townofblandford.com/",
+    "email": "selectmensecretary@townofblandford.com"
+  },
+  {
+    "name": "Bolton",
+    "website": "http://www.townofbolton.com/",
+    "email": "secretary@townofbolton.com"
+  },
+  {
+    "name": "Boston",
+    "website": "https://www.boston.gov/",
+    "email": "jean.lorizio@boston.gov"
+  },
+  {
+    "name": "Bourne",
+    "website": "http://www.TownofBourne.com",
+    "email": "nnsundman@townofbourne.com"
+  },
+  {
+    "name": "Boxborough",
+    "website": "http://www.boxborough-ma.gov/",
+    "email": "selina.shaw@town.boxborough.ma.us"
+  },
+  {
+    "name": "Boxford",
+    "website": "http://www.town.boxford.ma.us",
+    "email": "sinman@town.boxford.ma.us"
+  },
+  {
+    "name": "Boylston",
+    "website": "https://www.boylston-ma.gov/",
+    "email": "mmcnamara@boylston-ma.gov"
+  },
+  {
+    "name": "Braintree",
+    "website": "https://www.braintreema.gov/",
+    "email": "amclaughlin@braintreema.gov"
+  },
+  {
+    "name": "Brewster",
+    "website": "http://www.brewster-ma.gov/",
+    "email": "sbroderick@town.brewster.ma.us"
+  },
+  {
+    "name": "Bridgewater",
+    "website": "http://www.bridgewaterma.org",
+    "email": "lisasullivan@bridgewaterma.org"
+  },
+  {
+    "name": "Brimfield",
+    "website": "http://www.brimfieldma.org/",
+    "email": "selectmen@brimfieldma.org"
+  },
+  {
+    "name": "Brockton",
+    "website": "http://www.brockton.ma.us",
+    "email": "btucker@cobma.us"
+  },
+  {
+    "name": "Brookfield",
+    "website": "http://www.brookfieldma.us/",
+    "email": "selectmen@brookfieldma.us"
+  },
+  {
+    "name": "Brookline",
+    "website": "http://www.brooklinema.gov/",
+    "email": "bcostello@brooklinema.gov"
+  },
+  {
+    "name": "Buckland",
+    "website": "http://town.buckland.ma.us",
+    "email": "shclark@town.buckland.ma.us"
+  },
+  {
+    "name": "Burlington",
+    "website": "http://www.burlington.org/",
+    "email": "bmcdonough@burlington.org"
+  },
+  {
+    "name": "Cambridge",
+    "website": "http://www.cambridgema.gov/",
+    "email": "elint@cambridgema.gov"
+  },
+  {
+    "name": "Canton",
+    "website": "http://www.town.canton.ma.us/",
+    "email": "ccarlton@town.canton.ma.us"
+  },
+  {
+    "name": "Carlisle",
+    "website": "http://www.carlislema.gov",
+    "email": "tgoddard@carlisle.mec.edu"
+  },
+  {
+    "name": "Carver",
+    "website": "https://www.carverma.gov/",
+    "email": "elaine.weston@carverma.org"
+  },
+  {
+    "name": "Charlemont",
+    "website": "http://www.charlemont-ma.us/",
+    "email": "select@bcn.net"
+  },
+  {
+    "name": "Charlton",
+    "website": "http://www.townofcharlton.net/",
+    "email": "robin.craver@townofcharlton.net"
+  },
+  {
+    "name": "Chatham",
+    "website": "http://www.chatham-ma.gov",
+    "email": "snealy@chatham-ma.gov"
+  },
+  {
+    "name": "Chelmsford",
+    "website": "http://www.townofchelmsford.us/",
+    "email": "ssmith@townofchelmsford.us"
+  },
+  {
+    "name": "Chelsea",
+    "website": "https://www.chelseama.gov/",
+    "email": "dclayman@chelseama.gov"
+  },
+  {
+    "name": "Cheshire",
+    "website": "http://www.cheshire-ma.com/",
+    "email": "admin@cheshire-ma.gov"
+  },
+  {
+    "name": "Chester",
+    "website": "http://townofchester.net/",
+    "email": "townadmin@townofchesterfieldma.com"
+  },
+  {
+    "name": "Chesterfield",
+    "website": "http://www.townofchesterfieldma.com/",
+    "email": ""
+  },
+  {
+    "name": "Chicopee",
+    "website": "http://www.chicopeema.gov/",
+    "email": "ltaillefer@chicopeema.gov"
+  },
+  {
+    "name": "Chilmark",
+    "website": "http://www.chilmarkma.gov",
+    "email": "execsec@chilmarkma.gov"
+  },
+  {
+    "name": "Clarksburg",
+    "website": "http://www.clarksburgma.us/",
+    "email": "clarksburgtownhall@verizon.net"
+  },
+  {
+    "name": "Clinton",
+    "website": "http://www.clintonma.gov/",
+    "email": "mward@clintonma.gov"
+  },
+  {
+    "name": "Cohasset",
+    "website": "https://cohassetma.org/",
+    "email": "joram@cohassetma.org"
+  },
+  {
+    "name": "Colrain",
+    "website": "http://colrain-ma.gov/",
+    "email": "bos@colrain-ma.gov"
+  },
+  {
+    "name": "Concord",
+    "website": "http://concordma.gov/",
+    "email": "rlauer@concordma.gov"
+  },
+  {
+    "name": "Conway",
+    "website": "https://conwayma.gov/",
+    "email": "selectboard@townofconway.com"
+  },
+  {
+    "name": "Cummington",
+    "website": "http://www.cummington-ma.gov",
+    "email": "selectboard@cummington-ma.gov"
+  },
+  {
+    "name": "Dalton",
+    "website": "http://www.Dalton-ma.gov",
+    "email": "daltonth@bcn.net"
+  },
+  {
+    "name": "Danvers",
+    "website": "https://www.danversma.gov/",
+    "email": "cellsworth@mail.danvers-ma.org"
+  },
+  {
+    "name": "Dartmouth",
+    "website": "http://www.town.dartmouth.ma.us/",
+    "email": "ltorres@town.dartmouth.ma.us"
+  },
+  {
+    "name": "Dedham",
+    "website": "http://www.dedham-ma.gov",
+    "email": "weddy@dedham-ma.gov"
+  },
+  {
+    "name": "Deerfield",
+    "website": "http://www.deerfieldma.us",
+    "email": "dfinn@town.deerfield.ma.us"
+  },
+  {
+    "name": "Dennis",
+    "website": "http://www.town.dennis.ma.us/",
+    "email": "jvarjian@town.dennis.ma.us"
+  },
+  {
+    "name": "Dighton",
+    "website": "https://www.dighton-ma.gov/",
+    "email": "keasterday@townofdighton.com"
+  },
+  {
+    "name": "Douglas",
+    "website": "https://douglas-ma.gov/",
+    "email": "skane@douglasma.org"
+  },
+  {
+    "name": "Dover",
+    "website": "https://www.doverma.gov/",
+    "email": "selectmen@doverma.org"
+  },
+  {
+    "name": "Dracut",
+    "website": "http://www.dracutma.gov/",
+    "email": "sbeaulieu@dracutma.gov"
+  },
+  {
+    "name": "Dudley",
+    "website": "http://www.dudleyma.gov/",
+    "email": "selectmen@dudleyma.gov"
+  },
+  {
+    "name": "Dunstable",
+    "website": "http://www.dunstable-ma.gov/",
+    "email": "cskerrett@dunstable-ma.gov"
+  },
+  {
+    "name": "Duxbury",
+    "website": "http://www.town.duxbury.ma.us/",
+    "email": "brandon@town.duxbury.ma.us"
+  },
+  {
+    "name": "East Bridgewater",
+    "website": "https://www.eastbridgewaterma.gov/",
+    "email": "gmitchell@ebmass.com"
+  },
+  {
+    "name": "East Brookfield",
+    "website": "http://www.eastbrookfieldma.us/",
+    "email": "ebbos300@eastbrookfieldma.us"
+  },
+  {
+    "name": "East Longmeadow",
+    "website": "http://www.eastlongmeadowma.gov/",
+    "email": "paul.federici@eastlongmeadowma.gov"
+  },
+  {
+    "name": "Eastham",
+    "website": "http://www.eastham-ma.gov/",
+    "email": "mayorsoffice@easthampton.org"
+  },
+  {
+    "name": "Easthampton",
+    "website": "https://easthamptonma.gov/",
+    "email": ""
+  },
+  {
+    "name": "Easton",
+    "website": "http://www.easton.ma.us/",
+    "email": "cread@easton.ma.us"
+  },
+  {
+    "name": "Edgartown",
+    "website": "http://www.edgartown-ma.us/",
+    "email": "pdolby@edgartown-ma.us"
+  },
+  {
+    "name": "Egremont",
+    "website": "http://www.egremont-ma.gov/",
+    "email": "tegremont@yahoo.com"
+  },
+  {
+    "name": "Erving",
+    "website": "http://www.erving-ma.org",
+    "email": "municlerk@erving-ma.org"
+  },
+  {
+    "name": "Essex",
+    "website": "http://www.essexma.org/",
+    "email": "pwitham@essexma.org"
+  },
+  {
+    "name": "Everett",
+    "website": "http://www.cityofeverett.com/",
+    "email": "annette.debilio@ci.everett.ma.us"
+  },
+  {
+    "name": "Fairhaven",
+    "website": "http://www.fairhaven-ma.gov/",
+    "email": "loreen@fairhaven-ma.gov"
+  },
+  {
+    "name": "Fall River",
+    "website": "http://www.fallriverma.org",
+    "email": "kayash@fallriverma.org"
+  },
+  {
+    "name": "Falmouth",
+    "website": "https://www.falmouthma.gov/",
+    "email": "cgrasso@falmouthmass.us"
+  },
+  {
+    "name": "Fitchburg",
+    "website": "http://www.ci.fitchburg.ma.us/",
+    "email": "afarrell@fitchburgma.gov"
+  },
+  {
+    "name": "Florida",
+    "website": "https://www.townofflorida.org/",
+    "email": "floridaclerk.floridamass@gmail.com"
+  },
+  {
+    "name": "Foxborough",
+    "website": "http://foxboroughma.gov/",
+    "email": "marmando@town.foxborough.ma.us"
+  },
+  {
+    "name": "Framingham",
+    "website": "http://www.framinghamma.gov",
+    "email": "mr@framinghamma.gov"
+  },
+  {
+    "name": "Franklin",
+    "website": "https://www.franklinma.gov/",
+    "email": "mkinhart@franklin.ma.us"
+  },
+  {
+    "name": "Freetown",
+    "website": "http://www.freetownma.gov",
+    "email": "aligolz@freetownma.gov"
+  },
+  {
+    "name": "Gardner",
+    "website": "http://www.gardner-ma.gov/",
+    "email": "jdaigle@gardner-ma.gov"
+  },
+  {
+    "name": "Georgetown",
+    "website": "http://www.georgetownma.gov",
+    "email": "jpantano@georgetownma.gov"
+  },
+  {
+    "name": "Gill",
+    "website": "http://www.gillmass.org",
+    "email": "administrator@gillmass.org"
+  },
+  {
+    "name": "Gloucester",
+    "website": "http://www.gloucester-ma.gov",
+    "email": "lboard@gloucester-ma.gov"
+  },
+  {
+    "name": "Goshen",
+    "website": "http://www.goshen-ma.us/",
+    "email": "selectboard@goshen-ma.us"
+  },
+  {
+    "name": "Gosnold",
+    "website": "https://www.townofgosnold.org/",
+    "email": "gosnoldtownclerk@yahoo.com"
+  },
+  {
+    "name": "Grafton",
+    "website": "http://www.grafton-ma.gov",
+    "email": "stjohndupuisl@grafton-ma.gov"
+  },
+  {
+    "name": "Granby",
+    "website": "http://www.granby-ma.gov/",
+    "email": "cleonard@granby-ma.gov"
+  },
+  {
+    "name": "Granville",
+    "website": "https://www.townofgranville.net/",
+    "email": "townadministrator@townofgranville.org"
+  },
+  {
+    "name": "Great Barrington",
+    "website": "http://www.townofgb.org",
+    "email": "hkuziemko@townofgb.org"
+  },
+  {
+    "name": "Greenfield",
+    "website": "http://greenfield-ma.gov/",
+    "email": "lorik@greenfield-ma.gov"
+  },
+  {
+    "name": "Groton",
+    "website": "https://www.grotonma.gov/",
+    "email": "ddunbar@townofgroton.org"
+  },
+  {
+    "name": "Groveland",
+    "website": "http://www.grovelandma.com/",
+    "email": "ddembkoski@grovelandma.com"
+  },
+  {
+    "name": "Hadley",
+    "website": "http://www.hadleyma.org/",
+    "email": "info@hadleyma.org"
+  },
+  {
+    "name": "Halifax",
+    "website": "http://www.halifax-ma.org/",
+    "email": "pmcsherry@town.halifax.ma.us"
+  },
+  {
+    "name": "Hamilton",
+    "website": "http://www.hamiltonma.gov",
+    "email": "mlombardo@hamiltonma.gov"
+  },
+  {
+    "name": "Hampden",
+    "website": "https://www.hampdenma.gov/",
+    "email": "selectmen@hampden.org"
+  },
+  {
+    "name": "Hancock",
+    "website": "https://town.hancock.ma.us/",
+    "email": "bos@fairpoint.net"
+  },
+  {
+    "name": "Hanover",
+    "website": "http://www.hanover-ma.gov/",
+    "email": "lorraine.burgio@hanover-ma.gov."
+  },
+  {
+    "name": "Hanson",
+    "website": "http://www.hanson-ma.gov/",
+    "email": "mmarini@hanson-ma.gov"
+  },
+  {
+    "name": "Hardwick",
+    "website": "https://www.hardwick-ma.gov/",
+    "email": "admin@townofhardwick.com"
+  },
+  {
+    "name": "Harvard",
+    "website": "https://www.harvard-ma.gov/",
+    "email": "jdoucet@harvard.ma.us"
+  },
+  {
+    "name": "Harwich",
+    "website": "http://www.harwich-ma.gov/",
+    "email": "asteidel@town.harwich.ma.us"
+  },
+  {
+    "name": "Hatfield",
+    "website": "http://www.townofhatfield.org/",
+    "email": "secretary@townofhatfield.org"
+  },
+  {
+    "name": "Haverhill",
+    "website": "https://www.cityofhaverhill.com/",
+    "email": "license_comm@cityofhaverhill.com"
+  },
+  {
+    "name": "Hawley",
+    "website": "http://www.townofhawley.com/",
+    "email": "info@townofhawley.com"
+  },
+  {
+    "name": "Heath",
+    "website": "http://www.townofheath.org/",
+    "email": "bos@townofheath.org"
+  },
+  {
+    "name": "Hingham",
+    "website": "http://www.hingham-ma.gov/",
+    "email": "perfettis@hingham-ma.gov"
+  },
+  {
+    "name": "Hinsdale",
+    "website": "https://www.hinsdalemass.com/",
+    "email": "hinsdalema.selectman@verizon.net"
+  },
+  {
+    "name": "Holbrook",
+    "website": "http://holbrookma.gov",
+    "email": "mgodfrey@holbrookmassachusetts.us"
+  },
+  {
+    "name": "Holden",
+    "website": "https://www.holdenma.gov/",
+    "email": "cjenkins@holdenma.gov"
+  },
+  {
+    "name": "Holland",
+    "website": "https://town.holland.ma.us/",
+    "email": "krobbins@virtualtownhall.net"
+  },
+  {
+    "name": "Holliston",
+    "website": "http://www.townofholliston.us/",
+    "email": "minihana@holliston.k12.ma.us"
+  },
+  {
+    "name": "Holyoke",
+    "website": "http://www.holyoke.org/",
+    "email": "champagnej@holyoke.org"
+  },
+  {
+    "name": "Hopedale",
+    "website": "http://www.hopedale-ma.gov",
+    "email": "sbrouwer@hopedale-ma.gov"
+  },
+  {
+    "name": "Hopkinton",
+    "website": "http://www.hopkintonma.gov",
+    "email": "mglynn@hopkintonma.gov"
+  },
+  {
+    "name": "Hubbardston",
+    "website": "http://www.hubbardstonma.us/",
+    "email": "bos@hubbardstonma.us"
+  },
+  {
+    "name": "Hudson",
+    "website": "http://www.townofhudson.org",
+    "email": "fsantos@townofhudson.org"
+  },
+  {
+    "name": "Hull",
+    "website": "http://www.town.hull.ma.us/",
+    "email": "lwest@town.hull.ma.us"
+  },
+  {
+    "name": "Huntington",
+    "website": "http://huntingtonma.us/",
+    "email": "huntingtonsb@comcast.net"
+  },
+  {
+    "name": "Ipswich",
+    "website": "http://www.ipswichma.gov/",
+    "email": "jenniferb@ipswich-ma.gov"
+  },
+  {
+    "name": "Kingston",
+    "website": "https://kingstonma.gov/",
+    "email": "akeane@kingstonmass.org"
+  },
+  {
+    "name": "Lakeville",
+    "website": "http://www.lakevillema.org/",
+    "email": "tcraig@lakevillema.org"
+  },
+  {
+    "name": "Lancaster",
+    "website": "http://www.ci.lancaster.ma.us/",
+    "email": "kalamb@lancasterma.net"
+  },
+  {
+    "name": "Lanesborough",
+    "website": "http://www.lanesborough-ma.gov/",
+    "email": "town.secretary@lanesborough-ma.gov"
+  },
+  {
+    "name": "Lawrence",
+    "website": "http://www.cityoflawrence.com",
+    "email": "pwaters@cityoflawrence.com"
+  },
+  {
+    "name": "Lee",
+    "website": "http://www.lee.ma.us/",
+    "email": "cbelair@town.lee.ma.us"
+  },
+  {
+    "name": "Leicester",
+    "website": "http://www.leicesterma.org/",
+    "email": "forsbergk@leicesterma.org"
+  },
+  {
+    "name": "Lenox",
+    "website": "http://www.townoflenox.com/",
+    "email": "selectmen@townoflenox.com"
+  },
+  {
+    "name": "Leominster",
+    "website": "http://www.leominster-ma.gov",
+    "email": "mnadeau@leominster-ma.gov"
+  },
+  {
+    "name": "Leverett",
+    "website": "http://www.leverett.ma.us/",
+    "email": "selectboard@leverett.ma.us"
+  },
+  {
+    "name": "Lexington",
+    "website": "http://www.lexingtonma.gov",
+    "email": "selectmen@lexingtonma.gov"
+  },
+  {
+    "name": "Leyden",
+    "website": "http://www.townofleyden.com/",
+    "email": "leydenselectboard@crocker.com"
+  },
+  {
+    "name": "Lincoln",
+    "website": "http://www.lincolntown.org/",
+    "email": "elderp@lincolntown.org"
+  },
+  {
+    "name": "Littleton",
+    "website": "http://www.littletonma.org/",
+    "email": "jgibbons@littletonma.org"
+  },
+  {
+    "name": "Longmeadow",
+    "website": "https://www.longmeadowma.gov/",
+    "email": "dhouse@longmeadow.org."
+  },
+  {
+    "name": "Lowell",
+    "website": "https://www.lowellma.gov/",
+    "email": "rwynn@lowellma.gov"
+  },
+  {
+    "name": "Ludlow",
+    "website": "https://www.ludlow.ma.us/",
+    "email": "evillano@ludlow.ma.us"
+  },
+  {
+    "name": "Lunenburg",
+    "website": "http://www.lunenburgma.gov/",
+    "email": "epeterson@lunenburgonline.com"
+  },
+  {
+    "name": "Lynn",
+    "website": "https://www.lynnma.gov/",
+    "email": "bcurtin@town.lynnfield.ma.us"
+  },
+  {
+    "name": "Lynnfield",
+    "website": "http://www.town.lynnfield.ma.us/",
+    "email": ""
+  },
+  {
+    "name": "Malden",
+    "website": "http://www.cityofmalden.org/",
+    "email": "danthony@cityofmalden.org"
+  },
+  {
+    "name": "Manchester-by-the-Sea",
+    "website": "http://www.manchester.ma.us/",
+    "email": ""
+  },
+  {
+    "name": "Mansfield",
+    "website": "http://www.mansfieldma.com/",
+    "email": "twhalen@mansfieldma.com"
+  },
+  {
+    "name": "Marblehead",
+    "website": "http://www.marblehead.org",
+    "email": "mcginnj@marblehead.org"
+  },
+  {
+    "name": "Marion",
+    "website": "http://www.marionma.gov",
+    "email": "dpaiva@marionma.gov"
+  },
+  {
+    "name": "Marlborough",
+    "website": "http://www.marlborough-ma.gov/",
+    "email": "tnolin@marlborough-ma.gov"
+  },
+  {
+    "name": "Marshfield",
+    "website": "https://www.marshfield-ma.gov/",
+    "email": "bwiedemann@townofmarshfield.org"
+  },
+  {
+    "name": "Mashpee",
+    "website": "http://www.mashpeema.gov/",
+    "email": "cwillander@mashpeema.gov"
+  },
+  {
+    "name": "Mattapoisett",
+    "website": "http://www.mattapoisett.net/",
+    "email": "mpacheco@mattapoisett.net"
+  },
+  {
+    "name": "Maynard",
+    "website": "http://www.townofmaynard-ma.gov",
+    "email": "bmosca@townofmaynard.net"
+  },
+  {
+    "name": "Medfield",
+    "website": "http://www.town.medfield.net/",
+    "email": "eclarke@medfield.net"
+  },
+  {
+    "name": "Medford",
+    "website": "https://www.medfordma.org/",
+    "email": "jspencer@medford.org"
+  },
+  {
+    "name": "Medway",
+    "website": "http://www.townofmedway.org/",
+    "email": "kkisty@townofmedway.org"
+  },
+  {
+    "name": "Melrose",
+    "website": "http://www.cityofmelrose.org",
+    "email": "cityclerk@cityofmelrose.org"
+  },
+  {
+    "name": "Mendon",
+    "website": "http://www.mendonma.gov/",
+    "email": "bos@mendonma.gov"
+  },
+  {
+    "name": "Merrimac",
+    "website": "https://townofmerrimac.com/",
+    "email": "selectmen@townofmerrimac.com"
+  },
+  {
+    "name": "Methuen",
+    "website": "https://www.cityofmethuen.net/",
+    "email": "jkhajjar@ci.methuen.ma.us"
+  },
+  {
+    "name": "Middleborough",
+    "website": "https://www.middleboroughma.gov/",
+    "email": "jshanley@middleborough.com"
+  },
+  {
+    "name": "Middlefield",
+    "website": "https://www.middlefield-ma.gov/",
+    "email": "townclerk@middlefieldma.net"
+  },
+  {
+    "name": "Middleton",
+    "website": "https://www.middletonma.gov/",
+    "email": "adminsecretary@townofmiddleton.org"
+  },
+  {
+    "name": "Milford",
+    "website": "https://www.milfordma.gov/",
+    "email": "jdetore@townofmilford.com"
+  },
+  {
+    "name": "Millbury",
+    "website": "https://www.millburyma.gov/",
+    "email": "phayes@townofmillbury.net"
+  },
+  {
+    "name": "Millis",
+    "website": "https://www.millisma.gov/",
+    "email": "kbouret@millis.net"
+  },
+  {
+    "name": "Millville",
+    "website": "http://www.millvillema.org",
+    "email": "execsec@millvillema.org"
+  },
+  {
+    "name": "Milton",
+    "website": "http://www.townofmilton.org/",
+    "email": "bmartin@townofmilton.org"
+  },
+  {
+    "name": "Monroe",
+    "website": "https://www.franklincc.org/index.php/relocate-here/town-profiles/42-monroe",
+    "email": "monroe01350@yahoo.com"
+  },
+  {
+    "name": "Monson",
+    "website": "http://www.monson-ma.gov/",
+    "email": "gbingle@monson-ma.gov"
+  },
+  {
+    "name": "Montague",
+    "website": "https://montague-ma.gov/",
+    "email": "wendyb@montague-ma.gov"
+  },
+  {
+    "name": "Monterey",
+    "website": "http://www.montereyma.gov/",
+    "email": "admin@montereyma.gov"
+  },
+  {
+    "name": "Montgomery",
+    "website": "https://montgomeryma.gov/",
+    "email": "selectboard@montgomeryma.gov"
+  },
+  {
+    "name": "Mount Washington",
+    "website": "https://mountwashington-ma.gov/",
+    "email": ""
+  },
+  {
+    "name": "Nahant",
+    "website": "http://www.nahant.org/",
+    "email": "mlowe@nahant.org"
+  },
+  {
+    "name": "Nantucket",
+    "website": "http://www.nantucket-ma.gov/",
+    "email": "amcandrew@police.nantucket-ma.gov"
+  },
+  {
+    "name": "Natick",
+    "website": "https://www.natickma.gov/",
+    "email": "ddonovan@natickma.org"
+  },
+  {
+    "name": "Needham",
+    "website": "http://www.needhamma.gov/",
+    "email": "scincotta@needhamma.gov"
+  },
+  {
+    "name": "New Ashford",
+    "website": "https://www.newashford-ma.us/",
+    "email": "loritro@verizon.net"
+  },
+  {
+    "name": "New Bedford",
+    "website": "http://www.newbedford-ma.gov",
+    "email": "nicholas.nanopoulos@newbedford-ma.gov"
+  },
+  {
+    "name": "New Braintree",
+    "website": "https://www.newbraintreema.us/",
+    "email": "selectboard@newbraintree.org"
+  },
+  {
+    "name": "New Marlborough",
+    "website": "https://www.newmarlboroughma.gov/",
+    "email": "kchretien@newmarlboroughma.gov"
+  },
+  {
+    "name": "New Salem",
+    "website": "https://newsalemma.org/",
+    "email": "towncoord@crocker.com"
+  },
+  {
+    "name": "Newbury",
+    "website": "http://www.townofnewbury.org/",
+    "email": "lvarney@cityofnewburyport.com"
+  },
+  {
+    "name": "Newburyport",
+    "website": "http://www.cityofnewburyport.com/",
+    "email": ""
+  },
+  {
+    "name": "Newton",
+    "website": "http://www.newtonma.gov/",
+    "email": "slougee@newtonma.gov"
+  },
+  {
+    "name": "Norfolk",
+    "website": "https://norfolk.ma.us/",
+    "email": "harrington@virtualnorfolk.org"
+  },
+  {
+    "name": "North Adams",
+    "website": "http://www.northadams-ma.gov/",
+    "email": "rdickinson@northadams-ma.gov"
+  },
+  {
+    "name": "North Andover",
+    "website": "https://www.northandoverma.gov/",
+    "email": "spelich@northandoverma.gov"
+  },
+  {
+    "name": "North Attleboro",
+    "website": "https://www.nattleboro.com/",
+    "email": "gheidke@nattleboro.com"
+  },
+  {
+    "name": "North Brookfield",
+    "website": "http://www.northbrookfield.net/",
+    "email": "selectmen@northbrookfield.net"
+  },
+  {
+    "name": "North Reading",
+    "website": "http://www.northreadingma.gov",
+    "email": "jbrooks@northreadingma.gov"
+  },
+  {
+    "name": "Northampton",
+    "website": "http://www.northamptonma.gov/",
+    "email": "cmurphy@northamptonma.gov"
+  },
+  {
+    "name": "Northborough",
+    "website": "http://www.town.northborough.ma.us/",
+    "email": "dwackell@town.northborough.ma.us"
+  },
+  {
+    "name": "Northbridge",
+    "website": "http://www.northbridgemass.org/",
+    "email": "ssusienka@northbridgemass.org"
+  },
+  {
+    "name": "Northfield",
+    "website": "https://www.northfieldma.gov/",
+    "email": "townsec@townnfld.com"
+  },
+  {
+    "name": "Norton",
+    "website": "http://www.nortonma.org/",
+    "email": "cinstasi@nortonmaus.com"
+  },
+  {
+    "name": "Norwell",
+    "website": "http://www.townofnorwell.net",
+    "email": "lallen@townofnorwell.net"
+  },
+  {
+    "name": "Norwood",
+    "website": "http://www.norwoodma.gov",
+    "email": "fjessoe@norwoodma.gov"
+  },
+  {
+    "name": "Oak Bluffs",
+    "website": "http://www.oakbluffsma.gov/",
+    "email": "abutler@oakbluffsma.gov"
+  },
+  {
+    "name": "Oakham",
+    "website": "http://www.oakham-ma.gov/",
+    "email": "donna.couture@oakham-ma.gov"
+  },
+  {
+    "name": "Orange",
+    "website": "http://townoforange.org/",
+    "email": "wjohnson@townoforange.org"
+  },
+  {
+    "name": "Orleans",
+    "website": "http://www.town.orleans.ma.us/",
+    "email": "lsurdut@town.orleans.ma.us"
+  },
+  {
+    "name": "Otis",
+    "website": "https://townofotisma.com/",
+    "email": "healthdept.otis@gmail.com"
+  },
+  {
+    "name": "Oxford",
+    "website": "https://www.oxfordma.us/",
+    "email": "kcrandell@town.oxford.ma.us"
+  },
+  {
+    "name": "Palmer",
+    "website": "http://www.townofpalmer.com",
+    "email": "agolas@townofpalmer.com"
+  },
+  {
+    "name": "Paxton",
+    "website": "http://www.townofpaxton.net/",
+    "email": "dparsons@townofpaxton.net"
+  },
+  {
+    "name": "Peabody",
+    "website": "http://www.peabody-ma.gov/",
+    "email": "darryl.mccarthy@peabody-ma.gov"
+  },
+  {
+    "name": "Pelham",
+    "website": "http://www.townofpelham.org/",
+    "email": "pelhamtownclerk@comcast.net"
+  },
+  {
+    "name": "Pembroke",
+    "website": "http://www.pembroke-ma.gov",
+    "email": "schilcott@townofpembrokemass.org"
+  },
+  {
+    "name": "Pepperell",
+    "website": "http://www.town.pepperell.ma.us/",
+    "email": "pmazzola@town.pepperell.ma.us"
+  },
+  {
+    "name": "Peru",
+    "website": "https://www.townofperuma.com/",
+    "email": "townclerk@townofperuma.com"
+  },
+  {
+    "name": "Petersham",
+    "website": "http://www.townofpetersham.org/",
+    "email": "stevenboudreau391@gmail.com"
+  },
+  {
+    "name": "Phillipston",
+    "website": "http://www.phillipston-ma.gov",
+    "email": "selectman@phillipston-ma.gov"
+  },
+  {
+    "name": "Pittsfield",
+    "website": "https://www.cityofpittsfield.org/",
+    "email": "cknowles@pittsfieldch.com"
+  },
+  {
+    "name": "Plainfield",
+    "website": "https://plainfield-ma.us/",
+    "email": "plainfieldtownclerk@gmail.com"
+  },
+  {
+    "name": "Plainville",
+    "website": "https://www.plainville.ma.us/",
+    "email": "jthompson@plainville.ma.us"
+  },
+  {
+    "name": "Plymouth",
+    "website": "http://www.plymouth-ma.gov/",
+    "email": "ljohnson@townhall.plymouth.ma.us"
+  },
+  {
+    "name": "Plympton",
+    "website": "https://www.town.plympton.ma.us/",
+    "email": "selectmen.assistant@town.plympton.ma.us"
+  },
+  {
+    "name": "Princeton",
+    "website": "http://town.princeton.ma.us/",
+    "email": "townadministrator@town.princeton.ma.us"
+  },
+  {
+    "name": "Provincetown",
+    "website": "http://www.provincetown-ma.gov/",
+    "email": "ahobart@provincetown-ma.gov"
+  },
+  {
+    "name": "Quincy",
+    "website": "http://www.quincyma.gov",
+    "email": "cmanning@quincyma.gov"
+  },
+  {
+    "name": "Randolph",
+    "website": "http://www.randolph-ma.gov",
+    "email": "lsproules@randolph-ma.gov"
+  },
+  {
+    "name": "Raynham",
+    "website": "http://www.town.raynham.ma.us/",
+    "email": "rbuckner@town.raynham.ma.us"
+  },
+  {
+    "name": "Reading",
+    "website": "http://www.readingma.gov/",
+    "email": "townmanager@ci.reading.ma.us"
+  },
+  {
+    "name": "Rehoboth",
+    "website": "https://www.rehobothma.gov/",
+    "email": "hdennen@town.rehoboth.ma.us"
+  },
+  {
+    "name": "Revere",
+    "website": "https://www.revere.org/",
+    "email": "mhaney@revere.org"
+  },
+  {
+    "name": "Richmond",
+    "website": "http://www.richmondma.org",
+    "email": "townadmin@richmondma.org"
+  },
+  {
+    "name": "Rochester",
+    "website": "http://townofrochestermass.com",
+    "email": "abaptiste@townofrochester.com"
+  },
+  {
+    "name": "Rockland",
+    "website": "http://rockland-ma.gov/",
+    "email": "exasstselectmen@rockland-ma.gov"
+  },
+  {
+    "name": "Rockport",
+    "website": "http://www.rockportma.gov/",
+    "email": "pbrown@rockportma.gov"
+  },
+  {
+    "name": "Rowe",
+    "website": "http://www.rowe-ma.gov/",
+    "email": "townclerk@rowe-ma.gov"
+  },
+  {
+    "name": "Rowley",
+    "website": "http://www.townofrowley.net",
+    "email": "amy.lydon@townofrowley.org"
+  },
+  {
+    "name": "Royalston",
+    "website": "http://www.royalston-ma.gov",
+    "email": "helen.divoll@royalston-ma.gov"
+  },
+  {
+    "name": "Russell",
+    "website": "http://www.townofrussell.us",
+    "email": "nboersig@russellma.net"
+  },
+  {
+    "name": "Rutland",
+    "website": "https://www.rutlandma.gov/",
+    "email": "selectmen@townofrutland.org"
+  },
+  {
+    "name": "Salem",
+    "website": "https://www.salemma.gov/",
+    "email": "mpagliaro@salem.com"
+  },
+  {
+    "name": "Salisbury",
+    "website": "http://www.salisburyma.gov/",
+    "email": "townclerk@salisburyma.gov"
+  },
+  {
+    "name": "Sandisfield",
+    "website": "http://www.sandisfieldma.gov/",
+    "email": "sandisfieldtownclerk@verizon.net"
+  },
+  {
+    "name": "Sandwich",
+    "website": "http://www.sandwichmass.org/",
+    "email": "kcoggeshall@townofsandwich.net"
+  },
+  {
+    "name": "Saugus",
+    "website": "http://www.saugus-ma.gov",
+    "email": "wreed@saugus-ma.gov"
+  },
+  {
+    "name": "Savoy",
+    "website": "https://townofsavoy.com/",
+    "email": "townofsavoy@verizon.net"
+  },
+  {
+    "name": "Scituate",
+    "website": "http://www.scituatema.gov/",
+    "email": "ldevin@scituatema.gov"
+  },
+  {
+    "name": "Seekonk",
+    "website": "http://www.seekonk-ma.gov",
+    "email": "ctesta@seekonk-ma.gov"
+  },
+  {
+    "name": "Sharon",
+    "website": "http://www.townofsharon.net/",
+    "email": "jaustrino@townofsharon.org"
+  },
+  {
+    "name": "Sheffield",
+    "website": "http://www.sheffieldma.gov",
+    "email": "adulin@sheffieldma.gov"
+  },
+  {
+    "name": "Shelburne",
+    "website": "http://www.townofshelburne.com/",
+    "email": "selectboard@townofshelburne.com"
+  },
+  {
+    "name": "Sherborn",
+    "website": "http://www.sherbornma.org",
+    "email": "jeanne.guthrie@sherbornma.org"
+  },
+  {
+    "name": "Shirley",
+    "website": "http://www.shirley-ma.gov/",
+    "email": "nboudreau@shirley-ma.gov"
+  },
+  {
+    "name": "Shrewsbury",
+    "website": "https://shrewsburyma.gov/",
+    "email": "cmattero@shrewsburyma.gov"
+  },
+  {
+    "name": "Shutesbury",
+    "website": "http://www.shutesbury.org",
+    "email": "adminsecretary@shutesbury.org"
+  },
+  {
+    "name": "Somerset",
+    "website": "http://www.townofsomerset.org/",
+    "email": "nmessier@town.somerset.ma.us"
+  },
+  {
+    "name": "Somerville",
+    "website": "http://www.somervillema.gov",
+    "email": "licensing@somervillema.gov"
+  },
+  {
+    "name": "South Hadley",
+    "website": "http://www.southhadley.org/",
+    "email": "lkrutzler@southhadleyma.gov"
+  },
+  {
+    "name": "Southampton",
+    "website": "https://townofsouthampton.org/",
+    "email": "townadministrator@townofsouthampton.org"
+  },
+  {
+    "name": "Southborough",
+    "website": "https://www.southboroughma.gov/",
+    "email": "lesposito@southboroughma.com"
+  },
+  {
+    "name": "Southbridge",
+    "website": "http://www.ci.southbridge.ma.us/",
+    "email": "kferron@southbridgemass.org"
+  },
+  {
+    "name": "Southwick",
+    "website": "http://www.southwickma.org/",
+    "email": "cpendleton@southwickma.net"
+  },
+  {
+    "name": "Spencer",
+    "website": "http://www.spencerma.gov",
+    "email": "bsavoie@spencerma.gov"
+  },
+  {
+    "name": "Springfield",
+    "website": "https://www.springfield-ma.gov/cos/",
+    "email": "amartinez@springfieldcityhall.com"
+  },
+  {
+    "name": "Sterling",
+    "website": "http://www.sterling-ma.gov",
+    "email": "kjayne@sterling-ma.gov"
+  },
+  {
+    "name": "Stockbridge",
+    "website": "https://www.stockbridge-ma.gov/",
+    "email": "admin@townofstockbridge.com"
+  },
+  {
+    "name": "Stoneham",
+    "website": "http://www.stoneham-ma.gov",
+    "email": "dpettengill@stoneham-ma.gov"
+  },
+  {
+    "name": "Stoughton",
+    "website": "https://www.stoughton.org/",
+    "email": "jvelazquez@stoughton-ma.gov"
+  },
+  {
+    "name": "Stow",
+    "website": "http://www.stow-ma.gov/",
+    "email": "selectmen@stow-ma.gov"
+  },
+  {
+    "name": "Sturbridge",
+    "website": "https://www.sturbridge.gov/",
+    "email": "selectmen@town.sturbridge.ma.us"
+  },
+  {
+    "name": "Sudbury",
+    "website": "https://sudbury.ma.us/",
+    "email": "frankl@sudbury.ma.us"
+  },
+  {
+    "name": "Sunderland",
+    "website": "http://www.townofsunderland.us/",
+    "email": "selectmen@townofsunderland.us"
+  },
+  {
+    "name": "Sutton",
+    "website": "http://www.suttonma.org/",
+    "email": "d.jacques@town.sutton.ma.us"
+  },
+  {
+    "name": "Swampscott",
+    "website": "https://www.swampscottma.gov/",
+    "email": "mgilhooley@town.swampscott.ma.us"
+  },
+  {
+    "name": "Swansea",
+    "website": "https://www.swanseama.gov/",
+    "email": "jhelley@town.swansea.ma.us"
+  },
+  {
+    "name": "Taunton",
+    "website": "http://www.taunton-ma.gov/",
+    "email": "sbarber@taunton-ma.gov"
+  },
+  {
+    "name": "Templeton",
+    "website": "https://www.templetonma.gov/",
+    "email": "hyoung@templeton1.org"
+  },
+  {
+    "name": "Tewksbury",
+    "website": "https://www.tewksbury-ma.gov/",
+    "email": "hmchambers@tewksbury-ma.gov"
+  },
+  {
+    "name": "Tisbury",
+    "website": "http://www.tisburyma.gov",
+    "email": "aajones@tisburyma.gov"
+  },
+  {
+    "name": "Tolland",
+    "website": "http://www.tolland-ma.gov",
+    "email": "townclerk@tolland-ma.com"
+  },
+  {
+    "name": "Topsfield",
+    "website": "http://www.topsfield-ma.gov/",
+    "email": "drich@topsfield-ma.gov"
+  },
+  {
+    "name": "Townsend",
+    "website": "https://www.townsendma.gov/",
+    "email": "jdeschenes@townsend.ma.us"
+  },
+  {
+    "name": "Truro",
+    "website": "http://www.truro-ma.gov",
+    "email": "ntudor@truro-ma.gov"
+  },
+  {
+    "name": "Tyngsborough",
+    "website": "http://www.tyngsboroughma.gov/",
+    "email": "tgay@tyngsboroughma.gov"
+  },
+  {
+    "name": "Tyringham",
+    "website": "http://www.tyringham-ma.gov/",
+    "email": "townhall@bcn.net"
+  },
+  {
+    "name": "Upton",
+    "website": "http://www.uptonma.gov/",
+    "email": "shakala@uptonma.gov"
+  },
+  {
+    "name": "Uxbridge",
+    "website": "http://www.uxbridge-ma.gov/",
+    "email": "tante@uxbridge-ma.gov"
+  },
+  {
+    "name": "Wakefield",
+    "website": "http://www.wakefield.ma.us/",
+    "email": "sdalton@wakefield.ma.us"
+  },
+  {
+    "name": "Wales",
+    "website": "http://www.townofwales.net/",
+    "email": "select@townofwales.net"
+  },
+  {
+    "name": "Walpole",
+    "website": "http://www.walpole-ma.gov/",
+    "email": "cberube@walpole-ma.gov"
+  },
+  {
+    "name": "Waltham",
+    "website": "http://www.city.waltham.ma.us/",
+    "email": "dwansiewicz@city.waltham.ma.us"
+  },
+  {
+    "name": "Ware",
+    "website": "http://www.townofware.com/",
+    "email": "jwilson@wareham.ma.us"
+  },
+  {
+    "name": "Wareham",
+    "website": "http://www.wareham.ma.us/",
+    "email": ""
+  },
+  {
+    "name": "Warren",
+    "website": "http://www.warren-ma.gov",
+    "email": "selectmen@warren-ma.gov"
+  },
+  {
+    "name": "Warwick",
+    "website": "http://www.warwickma.org",
+    "email": "coordinator@town.warwick.ma.us"
+  },
+  {
+    "name": "Washington",
+    "website": "http://www.washington-ma.com/",
+    "email": "washingtonaas@gmail.com"
+  },
+  {
+    "name": "Watertown",
+    "website": "http://www.watertown-ma.gov",
+    "email": "joneil@watertown-ma.gov"
+  },
+  {
+    "name": "Wayland",
+    "website": "http://www.wayland.ma.us/",
+    "email": "mdinapoli@wayland.ma.us"
+  },
+  {
+    "name": "Webster",
+    "website": "http://www.webster-ma.gov",
+    "email": "selectmen@webster-ma.gov"
+  },
+  {
+    "name": "Wellesley",
+    "website": "http://www.wellesleyma.gov",
+    "email": "shobson@wellesleyma.gov"
+  },
+  {
+    "name": "Wellfleet",
+    "website": "https://www.wellfleet-ma.gov/",
+    "email": "jeanne.maclauchlan@wellfleet-ma.gov"
+  },
+  {
+    "name": "Wendell",
+    "website": "http://www.wendellmass.us/",
+    "email": "towncoord@crocker.com"
+  },
+  {
+    "name": "Wenham",
+    "website": "http://www.wenhamma.gov/",
+    "email": "nroebuck@wenhamma.gov"
+  },
+  {
+    "name": "West Boylston",
+    "website": "http://www.westboylston-ma.gov",
+    "email": "nlucier@westboylston-ma.gov"
+  },
+  {
+    "name": "West Bridgewater",
+    "website": "http://www.westbridgewaterma.org/",
+    "email": "mcole@wbridgewater.com"
+  },
+  {
+    "name": "West Brookfield",
+    "website": "http://www.wbrookfield.com/",
+    "email": "jbarry@wbrookfield.com"
+  },
+  {
+    "name": "West Newbury",
+    "website": "https://www.wnewbury.org/",
+    "email": "selectmen@wnewbury.org"
+  },
+  {
+    "name": "West Springfield",
+    "website": "http://www.townofwestspringfield.org/",
+    "email": "rpotar@west-springfield.ma.us"
+  },
+  {
+    "name": "West Stockbridge",
+    "website": "http://www.weststockbridge-ma.gov",
+    "email": "admin@weststockbridge-ma.gov"
+  },
+  {
+    "name": "West Tisbury",
+    "website": "http://www.westtisbury-ma.gov/",
+    "email": "townadmin@westtisbury-ma.gov"
+  },
+  {
+    "name": "Westborough",
+    "website": "http://www.town.westborough.ma.us/",
+    "email": "kbain-morgado@town.westborough.ma.us"
+  },
+  {
+    "name": "Westfield",
+    "website": "http://www.cityofwestfield.org/",
+    "email": "k.jarret@cityofwestfield.org"
+  },
+  {
+    "name": "Westford",
+    "website": "https://westfordma.gov/",
+    "email": "pdubey@westfordma.gov"
+  },
+  {
+    "name": "Westhampton",
+    "website": "http://www.westhampton-ma.com/",
+    "email": ""
+  },
+  {
+    "name": "Westminster",
+    "website": "http://www.westminster-ma.gov",
+    "email": "gjmcdonald@aol.com"
+  },
+  {
+    "name": "Weston",
+    "website": "http://www.weston.org/",
+    "email": "townmanager@westonmass.org"
+  },
+  {
+    "name": "Westport",
+    "website": "http://www.westport-ma.com",
+    "email": "pellandd@westport-ma.gov"
+  },
+  {
+    "name": "Westwood",
+    "website": "http://www.townhall.westwood.ma.us/",
+    "email": "jbarba@townhall.westwood.ma.us"
+  },
+  {
+    "name": "Weymouth",
+    "website": "http://www.weymouth.ma.us/",
+    "email": "lvanwinkle@weymouth.ma.us"
+  },
+  {
+    "name": "Whately",
+    "website": "http://www.whately.org",
+    "email": "whatelysecretary@comcast.net"
+  },
+  {
+    "name": "Whitman",
+    "website": "http://www.whitman-ma.gov/",
+    "email": "obrienl@whitman-ma.gov"
+  },
+  {
+    "name": "Wilbraham",
+    "website": "http://www.wilbraham-ma.gov",
+    "email": "cgaumond@wilbraham-ma.gov"
+  },
+  {
+    "name": "Williamsburg",
+    "website": "https://www.burgy.org/",
+    "email": "selectmen@burgy.org"
+  },
+  {
+    "name": "Williamstown",
+    "website": "https://williamstownma.gov/",
+    "email": "dturnbull@williamstown.net"
+  },
+  {
+    "name": "Wilmington",
+    "website": "https://www.wilmingtonma.gov/",
+    "email": "manager@town.wilmington.ma.us"
+  },
+  {
+    "name": "Winchendon",
+    "website": "http://www.townofwinchendon.com/",
+    "email": "assistant@town.winchendon.ma.us"
+  },
+  {
+    "name": "Winchester",
+    "website": "http://www.winchester.us/",
+    "email": "jcafarella@winchester.us"
+  },
+  {
+    "name": "Windsor",
+    "website": "http://www.windsormass.com/",
+    "email": "briankoczela@bekassoc.com"
+  },
+  {
+    "name": "Winthrop",
+    "website": "http://www.town.winthrop.ma.us/",
+    "email": "dquist@town.winthrop.ma.us"
+  },
+  {
+    "name": "Woburn",
+    "website": "https://www.woburnma.gov/",
+    "email": "pgeorge@cityofwoburn.com"
+  },
+  {
+    "name": "Worcester",
+    "website": "http://www.worcesterma.gov",
+    "email": "steeled@worcesterma.gov"
+  },
+  {
+    "name": "Worthington",
+    "website": "http://www.worthington-ma.us/",
+    "email": "selectboard@worthington-ma.us"
+  },
+  {
+    "name": "Wrentham",
+    "website": "https://www.wrentham.gov/",
+    "email": "lpacella@wrentham.ma.us"
+  },
+  {
+    "name": "Yarmouth",
+    "website": "http://www.yarmouth.ma.us/",
+    "email": "lhill@yarmouth.ma.us"
+  }
+]
