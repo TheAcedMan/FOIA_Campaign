@@ -1,0 +1,1406 @@
+[
+  {
+    "name": "Abington",
+    "website": "http://www.abingtonma.gov"
+  },
+  {
+    "name": "Acton",
+    "website": "http://www.acton-ma.gov/"
+  },
+  {
+    "name": "Acushnet",
+    "website": "http://www.acushnet.ma.us/"
+  },
+  {
+    "name": "Adams",
+    "website": "https://www.town.adams.ma.us/"
+  },
+  {
+    "name": "Agawam",
+    "website": "http://www.agawam.ma.us/"
+  },
+  {
+    "name": "Alford",
+    "website": "http://townofalford.org/"
+  },
+  {
+    "name": "Amesbury",
+    "website": "http://www.amesburyma.gov/"
+  },
+  {
+    "name": "Amherst",
+    "website": "http://www.amherstma.gov/"
+  },
+  {
+    "name": "Andover",
+    "website": "http://andoverma.gov/"
+  },
+  {
+    "name": "Aquinnah",
+    "website": "http://www.aquinnah-ma.gov"
+  },
+  {
+    "name": "Arlington",
+    "website": "https://www.arlingtonma.gov/"
+  },
+  {
+    "name": "Ashburnham",
+    "website": "http://www.ashburnham-ma.gov/"
+  },
+  {
+    "name": "Ashby",
+    "website": "http://www.ci.ashby.ma.us/"
+  },
+  {
+    "name": "Ashfield",
+    "website": "http://www.ashfield.org"
+  },
+  {
+    "name": "Ashland",
+    "website": "http://www.AshlandMass.Com"
+  },
+  {
+    "name": "Athol",
+    "website": "http://www.athol-ma.gov/"
+  },
+  {
+    "name": "Attleboro",
+    "website": "http://www.cityofattleboro.us"
+  },
+  {
+    "name": "Auburn",
+    "website": "https://www.auburnma.gov/"
+  },
+  {
+    "name": "Avon",
+    "website": "https://www.avon-ma.gov/"
+  },
+  {
+    "name": "Ayer",
+    "website": "http://www.ayer.ma.us/"
+  },
+  {
+    "name": "Barnstable",
+    "website": "http://town.barnstable.ma.us/"
+  },
+  {
+    "name": "Barre",
+    "website": "https://www.townofbarre.com/"
+  },
+  {
+    "name": "Becket",
+    "website": "http://www.townofbecket.org"
+  },
+  {
+    "name": "Bedford",
+    "website": "https://www.bedfordma.gov/"
+  },
+  {
+    "name": "Belchertown",
+    "website": "http://www.belchertown.org/"
+  },
+  {
+    "name": "Bellingham",
+    "website": "https://www.bellinghamma.org/"
+  },
+  {
+    "name": "Belmont",
+    "website": "https://www.belmont-ma.gov/"
+  },
+  {
+    "name": "Berkley",
+    "website": "http://www.townofberkleyma.com"
+  },
+  {
+    "name": "Berlin",
+    "website": "http://www.townofberlin.com/"
+  },
+  {
+    "name": "Bernardston",
+    "website": "http://www.townofbernardston.org/"
+  },
+  {
+    "name": "Beverly",
+    "website": "http://www.beverlyma.gov/"
+  },
+  {
+    "name": "Billerica",
+    "website": "http://www.town.billerica.ma.us/"
+  },
+  {
+    "name": "Blackstone",
+    "website": "https://www.townofblackstone.org/"
+  },
+  {
+    "name": "Blandford",
+    "website": "https://townofblandford.com/"
+  },
+  {
+    "name": "Bolton",
+    "website": "http://www.townofbolton.com/"
+  },
+  {
+    "name": "Boston",
+    "website": "https://www.boston.gov/"
+  },
+  {
+    "name": "Bourne",
+    "website": "http://www.TownofBourne.com"
+  },
+  {
+    "name": "Boxborough",
+    "website": "http://www.boxborough-ma.gov/"
+  },
+  {
+    "name": "Boxford",
+    "website": "http://www.town.boxford.ma.us"
+  },
+  {
+    "name": "Boylston",
+    "website": "https://www.boylston-ma.gov/"
+  },
+  {
+    "name": "Braintree",
+    "website": "https://www.braintreema.gov/"
+  },
+  {
+    "name": "Brewster",
+    "website": "http://www.brewster-ma.gov/"
+  },
+  {
+    "name": "Bridgewater",
+    "website": "http://www.bridgewaterma.org"
+  },
+  {
+    "name": "Brimfield",
+    "website": "http://www.brimfieldma.org/"
+  },
+  {
+    "name": "Brockton",
+    "website": "http://www.brockton.ma.us"
+  },
+  {
+    "name": "Brookfield",
+    "website": "http://www.brookfieldma.us/"
+  },
+  {
+    "name": "Brookline",
+    "website": "http://www.brooklinema.gov/"
+  },
+  {
+    "name": "Buckland",
+    "website": "http://town.buckland.ma.us"
+  },
+  {
+    "name": "Burlington",
+    "website": "http://www.burlington.org/"
+  },
+  {
+    "name": "Cambridge",
+    "website": "http://www.cambridgema.gov/"
+  },
+  {
+    "name": "Canton",
+    "website": "http://www.town.canton.ma.us/"
+  },
+  {
+    "name": "Carlisle",
+    "website": "http://www.carlislema.gov"
+  },
+  {
+    "name": "Carver",
+    "website": "https://www.carverma.gov/"
+  },
+  {
+    "name": "Charlemont",
+    "website": "http://www.charlemont-ma.us/"
+  },
+  {
+    "name": "Charlton",
+    "website": "http://www.townofcharlton.net/"
+  },
+  {
+    "name": "Chatham",
+    "website": "http://www.chatham-ma.gov"
+  },
+  {
+    "name": "Chelmsford",
+    "website": "http://www.townofchelmsford.us/"
+  },
+  {
+    "name": "Chelsea",
+    "website": "https://www.chelseama.gov/"
+  },
+  {
+    "name": "Cheshire",
+    "website": "http://www.cheshire-ma.com/"
+  },
+  {
+    "name": "Chester",
+    "website": "http://townofchester.net/"
+  },
+  {
+    "name": "Chesterfield",
+    "website": "http://www.townofchesterfieldma.com/"
+  },
+  {
+    "name": "Chicopee",
+    "website": "http://www.chicopeema.gov/"
+  },
+  {
+    "name": "Chilmark",
+    "website": "http://www.chilmarkma.gov"
+  },
+  {
+    "name": "Clarksburg",
+    "website": "http://www.clarksburgma.us/"
+  },
+  {
+    "name": "Clinton",
+    "website": "http://www.clintonma.gov/"
+  },
+  {
+    "name": "Cohasset",
+    "website": "https://cohassetma.org/"
+  },
+  {
+    "name": "Colrain",
+    "website": "http://colrain-ma.gov/"
+  },
+  {
+    "name": "Concord",
+    "website": "http://concordma.gov/"
+  },
+  {
+    "name": "Conway",
+    "website": "https://conwayma.gov/"
+  },
+  {
+    "name": "Cummington",
+    "website": "http://www.cummington-ma.gov"
+  },
+  {
+    "name": "Dalton",
+    "website": "http://www.Dalton-ma.gov"
+  },
+  {
+    "name": "Danvers",
+    "website": "https://www.danversma.gov/"
+  },
+  {
+    "name": "Dartmouth",
+    "website": "http://www.town.dartmouth.ma.us/"
+  },
+  {
+    "name": "Dedham",
+    "website": "http://www.dedham-ma.gov"
+  },
+  {
+    "name": "Deerfield",
+    "website": "http://www.deerfieldma.us"
+  },
+  {
+    "name": "Dennis",
+    "website": "http://www.town.dennis.ma.us/"
+  },
+  {
+    "name": "Dighton",
+    "website": "https://www.dighton-ma.gov/"
+  },
+  {
+    "name": "Douglas",
+    "website": "https://douglas-ma.gov/"
+  },
+  {
+    "name": "Dover",
+    "website": "https://www.doverma.gov/"
+  },
+  {
+    "name": "Dracut",
+    "website": "http://www.dracutma.gov/"
+  },
+  {
+    "name": "Dudley",
+    "website": "http://www.dudleyma.gov/"
+  },
+  {
+    "name": "Dunstable",
+    "website": "http://www.dunstable-ma.gov/"
+  },
+  {
+    "name": "Duxbury",
+    "website": "http://www.town.duxbury.ma.us/"
+  },
+  {
+    "name": "East Bridgewater",
+    "website": "https://www.eastbridgewaterma.gov/"
+  },
+  {
+    "name": "East Brookfield",
+    "website": "http://www.eastbrookfieldma.us/"
+  },
+  {
+    "name": "East Longmeadow",
+    "website": "http://www.eastlongmeadowma.gov/"
+  },
+  {
+    "name": "Eastham",
+    "website": "http://www.eastham-ma.gov/"
+  },
+  {
+    "name": "Easthampton",
+    "website": "https://easthamptonma.gov/"
+  },
+  {
+    "name": "Easton",
+    "website": "http://www.easton.ma.us/"
+  },
+  {
+    "name": "Edgartown",
+    "website": "http://www.edgartown-ma.us/"
+  },
+  {
+    "name": "Egremont",
+    "website": "http://www.egremont-ma.gov/"
+  },
+  {
+    "name": "Erving",
+    "website": "http://www.erving-ma.org"
+  },
+  {
+    "name": "Essex",
+    "website": "http://www.essexma.org/"
+  },
+  {
+    "name": "Everett",
+    "website": "http://www.cityofeverett.com/"
+  },
+  {
+    "name": "Fairhaven",
+    "website": "http://www.fairhaven-ma.gov/"
+  },
+  {
+    "name": "Fall River",
+    "website": "http://www.fallriverma.org"
+  },
+  {
+    "name": "Falmouth",
+    "website": "https://www.falmouthma.gov/"
+  },
+  {
+    "name": "Fitchburg",
+    "website": "http://www.ci.fitchburg.ma.us/"
+  },
+  {
+    "name": "Florida",
+    "website": "https://www.townofflorida.org/"
+  },
+  {
+    "name": "Foxborough",
+    "website": "http://foxboroughma.gov/"
+  },
+  {
+    "name": "Framingham",
+    "website": "http://www.framinghamma.gov"
+  },
+  {
+    "name": "Franklin",
+    "website": "https://www.franklinma.gov/"
+  },
+  {
+    "name": "Freetown",
+    "website": "http://www.freetownma.gov"
+  },
+  {
+    "name": "Gardner",
+    "website": "http://www.gardner-ma.gov/"
+  },
+  {
+    "name": "Georgetown",
+    "website": "http://www.georgetownma.gov"
+  },
+  {
+    "name": "Gill",
+    "website": "http://www.gillmass.org"
+  },
+  {
+    "name": "Gloucester",
+    "website": "http://www.gloucester-ma.gov"
+  },
+  {
+    "name": "Goshen",
+    "website": "http://www.goshen-ma.us/"
+  },
+  {
+    "name": "Gosnold",
+    "website": "https://www.townofgosnold.org/"
+  },
+  {
+    "name": "Grafton",
+    "website": "http://www.grafton-ma.gov"
+  },
+  {
+    "name": "Granby",
+    "website": "http://www.granby-ma.gov/"
+  },
+  {
+    "name": "Granville",
+    "website": "https://www.townofgranville.net/"
+  },
+  {
+    "name": "Great Barrington",
+    "website": "http://www.townofgb.org"
+  },
+  {
+    "name": "Greenfield",
+    "website": "http://greenfield-ma.gov/"
+  },
+  {
+    "name": "Groton",
+    "website": "https://www.grotonma.gov/"
+  },
+  {
+    "name": "Groveland",
+    "website": "http://www.grovelandma.com/"
+  },
+  {
+    "name": "Hadley",
+    "website": "http://www.hadleyma.org/"
+  },
+  {
+    "name": "Halifax",
+    "website": "http://www.halifax-ma.org/"
+  },
+  {
+    "name": "Hamilton",
+    "website": "http://www.hamiltonma.gov"
+  },
+  {
+    "name": "Hampden",
+    "website": "https://www.hampdenma.gov/"
+  },
+  {
+    "name": "Hancock",
+    "website": "https://town.hancock.ma.us/"
+  },
+  {
+    "name": "Hanover",
+    "website": "http://www.hanover-ma.gov/"
+  },
+  {
+    "name": "Hanson",
+    "website": "http://www.hanson-ma.gov/"
+  },
+  {
+    "name": "Hardwick",
+    "website": "https://www.hardwick-ma.gov/"
+  },
+  {
+    "name": "Harvard",
+    "website": "https://www.harvard-ma.gov/"
+  },
+  {
+    "name": "Harwich",
+    "website": "http://www.harwich-ma.gov/"
+  },
+  {
+    "name": "Hatfield",
+    "website": "http://www.townofhatfield.org/"
+  },
+  {
+    "name": "Haverhill",
+    "website": "https://www.cityofhaverhill.com/"
+  },
+  {
+    "name": "Hawley",
+    "website": "http://www.townofhawley.com/"
+  },
+  {
+    "name": "Heath",
+    "website": "http://www.townofheath.org/"
+  },
+  {
+    "name": "Hingham",
+    "website": "http://www.hingham-ma.gov/"
+  },
+  {
+    "name": "Hinsdale",
+    "website": "https://www.hinsdalemass.com/"
+  },
+  {
+    "name": "Holbrook",
+    "website": "http://holbrookma.gov"
+  },
+  {
+    "name": "Holden",
+    "website": "https://www.holdenma.gov/"
+  },
+  {
+    "name": "Holland",
+    "website": "https://town.holland.ma.us/"
+  },
+  {
+    "name": "Holliston",
+    "website": "http://www.townofholliston.us/"
+  },
+  {
+    "name": "Holyoke",
+    "website": "http://www.holyoke.org/"
+  },
+  {
+    "name": "Hopedale",
+    "website": "http://www.hopedale-ma.gov"
+  },
+  {
+    "name": "Hopkinton",
+    "website": "http://www.hopkintonma.gov"
+  },
+  {
+    "name": "Hubbardston",
+    "website": "http://www.hubbardstonma.us/"
+  },
+  {
+    "name": "Hudson",
+    "website": "http://www.townofhudson.org"
+  },
+  {
+    "name": "Hull",
+    "website": "http://www.town.hull.ma.us/"
+  },
+  {
+    "name": "Huntington",
+    "website": "http://huntingtonma.us/"
+  },
+  {
+    "name": "Ipswich",
+    "website": "http://www.ipswichma.gov/"
+  },
+  {
+    "name": "Kingston",
+    "website": "https://kingstonma.gov/"
+  },
+  {
+    "name": "Lakeville",
+    "website": "http://www.lakevillema.org/"
+  },
+  {
+    "name": "Lancaster",
+    "website": "http://www.ci.lancaster.ma.us/"
+  },
+  {
+    "name": "Lanesborough",
+    "website": "http://www.lanesborough-ma.gov/"
+  },
+  {
+    "name": "Lawrence",
+    "website": "http://www.cityoflawrence.com"
+  },
+  {
+    "name": "Lee",
+    "website": "http://www.lee.ma.us/"
+  },
+  {
+    "name": "Leicester",
+    "website": "http://www.leicesterma.org/"
+  },
+  {
+    "name": "Lenox",
+    "website": "http://www.townoflenox.com/"
+  },
+  {
+    "name": "Leominster",
+    "website": "http://www.leominster-ma.gov"
+  },
+  {
+    "name": "Leverett",
+    "website": "http://www.leverett.ma.us/"
+  },
+  {
+    "name": "Lexington",
+    "website": "http://www.lexingtonma.gov"
+  },
+  {
+    "name": "Leyden",
+    "website": "http://www.townofleyden.com/"
+  },
+  {
+    "name": "Lincoln",
+    "website": "http://www.lincolntown.org/"
+  },
+  {
+    "name": "Littleton",
+    "website": "http://www.littletonma.org/"
+  },
+  {
+    "name": "Longmeadow",
+    "website": "https://www.longmeadowma.gov/"
+  },
+  {
+    "name": "Lowell",
+    "website": "https://www.lowellma.gov/"
+  },
+  {
+    "name": "Ludlow",
+    "website": "https://www.ludlow.ma.us/"
+  },
+  {
+    "name": "Lunenburg",
+    "website": "http://www.lunenburgma.gov/"
+  },
+  {
+    "name": "Lynn",
+    "website": "https://www.lynnma.gov/"
+  },
+  {
+    "name": "Lynnfield",
+    "website": "http://www.town.lynnfield.ma.us/"
+  },
+  {
+    "name": "Malden",
+    "website": "http://www.cityofmalden.org/"
+  },
+  {
+    "name": "Manchester-by-the-Sea",
+    "website": "http://www.manchester.ma.us/"
+  },
+  {
+    "name": "Mansfield",
+    "website": "http://www.mansfieldma.com/"
+  },
+  {
+    "name": "Marblehead",
+    "website": "http://www.marblehead.org"
+  },
+  {
+    "name": "Marion",
+    "website": "http://www.marionma.gov"
+  },
+  {
+    "name": "Marlborough",
+    "website": "http://www.marlborough-ma.gov/"
+  },
+  {
+    "name": "Marshfield",
+    "website": "https://www.marshfield-ma.gov/"
+  },
+  {
+    "name": "Mashpee",
+    "website": "http://www.mashpeema.gov/"
+  },
+  {
+    "name": "Mattapoisett",
+    "website": "http://www.mattapoisett.net/"
+  },
+  {
+    "name": "Maynard",
+    "website": "http://www.townofmaynard-ma.gov"
+  },
+  {
+    "name": "Medfield",
+    "website": "http://www.town.medfield.net/"
+  },
+  {
+    "name": "Medford",
+    "website": "https://www.medfordma.org/"
+  },
+  {
+    "name": "Medway",
+    "website": "http://www.townofmedway.org/"
+  },
+  {
+    "name": "Melrose",
+    "website": "http://www.cityofmelrose.org"
+  },
+  {
+    "name": "Mendon",
+    "website": "http://www.mendonma.gov/"
+  },
+  {
+    "name": "Merrimac",
+    "website": "https://townofmerrimac.com/"
+  },
+  {
+    "name": "Methuen",
+    "website": "https://www.cityofmethuen.net/"
+  },
+  {
+    "name": "Middleborough",
+    "website": "https://www.middleboroughma.gov/"
+  },
+  {
+    "name": "Middlefield",
+    "website": "https://www.middlefield-ma.gov/"
+  },
+  {
+    "name": "Middleton",
+    "website": "https://www.middletonma.gov/"
+  },
+  {
+    "name": "Milford",
+    "website": "https://www.milfordma.gov/"
+  },
+  {
+    "name": "Millbury",
+    "website": "https://www.millburyma.gov/"
+  },
+  {
+    "name": "Millis",
+    "website": "https://www.millisma.gov/"
+  },
+  {
+    "name": "Millville",
+    "website": "http://www.millvillema.org"
+  },
+  {
+    "name": "Milton",
+    "website": "http://www.townofmilton.org/"
+  },
+  {
+    "name": "Monroe",
+    "website": "https://www.franklincc.org/index.php/relocate-here/town-profiles/42-monroe"
+  },
+  {
+    "name": "Monson",
+    "website": "http://www.monson-ma.gov/"
+  },
+  {
+    "name": "Montague",
+    "website": "https://montague-ma.gov/"
+  },
+  {
+    "name": "Monterey",
+    "website": "http://www.montereyma.gov/"
+  },
+  {
+    "name": "Montgomery",
+    "website": "https://montgomeryma.gov/"
+  },
+  {
+    "name": "Mount Washington",
+    "website": "https://mountwashington-ma.gov/"
+  },
+  {
+    "name": "Nahant",
+    "website": "http://www.nahant.org/"
+  },
+  {
+    "name": "Nantucket",
+    "website": "http://www.nantucket-ma.gov/"
+  },
+  {
+    "name": "Natick",
+    "website": "https://www.natickma.gov/"
+  },
+  {
+    "name": "Needham",
+    "website": "http://www.needhamma.gov/"
+  },
+  {
+    "name": "New Ashford",
+    "website": "https://www.newashford-ma.us/"
+  },
+  {
+    "name": "New Bedford",
+    "website": "http://www.newbedford-ma.gov"
+  },
+  {
+    "name": "New Braintree",
+    "website": "https://www.newbraintreema.us/"
+  },
+  {
+    "name": "New Marlborough",
+    "website": "https://www.newmarlboroughma.gov/"
+  },
+  {
+    "name": "New Salem",
+    "website": "https://newsalemma.org/"
+  },
+  {
+    "name": "Newbury",
+    "website": "http://www.townofnewbury.org/"
+  },
+  {
+    "name": "Newburyport",
+    "website": "http://www.cityofnewburyport.com/"
+  },
+  {
+    "name": "Newton",
+    "website": "http://www.newtonma.gov/"
+  },
+  {
+    "name": "Norfolk",
+    "website": "https://norfolk.ma.us/"
+  },
+  {
+    "name": "North Adams",
+    "website": "http://www.northadams-ma.gov/"
+  },
+  {
+    "name": "North Andover",
+    "website": "https://www.northandoverma.gov/"
+  },
+  {
+    "name": "North Attleboro",
+    "website": "https://www.nattleboro.com/"
+  },
+  {
+    "name": "North Brookfield",
+    "website": "http://www.northbrookfield.net/"
+  },
+  {
+    "name": "North Reading",
+    "website": "http://www.northreadingma.gov"
+  },
+  {
+    "name": "Northampton",
+    "website": "http://www.northamptonma.gov/"
+  },
+  {
+    "name": "Northborough",
+    "website": "http://www.town.northborough.ma.us/"
+  },
+  {
+    "name": "Northbridge",
+    "website": "http://www.northbridgemass.org/"
+  },
+  {
+    "name": "Northfield",
+    "website": "https://www.northfieldma.gov/"
+  },
+  {
+    "name": "Norton",
+    "website": "http://www.nortonma.org/"
+  },
+  {
+    "name": "Norwell",
+    "website": "http://www.townofnorwell.net"
+  },
+  {
+    "name": "Norwood",
+    "website": "http://www.norwoodma.gov"
+  },
+  {
+    "name": "Oak Bluffs",
+    "website": "http://www.oakbluffsma.gov/"
+  },
+  {
+    "name": "Oakham",
+    "website": "http://www.oakham-ma.gov/"
+  },
+  {
+    "name": "Orange",
+    "website": "http://townoforange.org/"
+  },
+  {
+    "name": "Orleans",
+    "website": "http://www.town.orleans.ma.us/"
+  },
+  {
+    "name": "Otis",
+    "website": "https://townofotisma.com/"
+  },
+  {
+    "name": "Oxford",
+    "website": "https://www.oxfordma.us/"
+  },
+  {
+    "name": "Palmer",
+    "website": "http://www.townofpalmer.com"
+  },
+  {
+    "name": "Paxton",
+    "website": "http://www.townofpaxton.net/"
+  },
+  {
+    "name": "Peabody",
+    "website": "http://www.peabody-ma.gov/"
+  },
+  {
+    "name": "Pelham",
+    "website": "http://www.townofpelham.org/"
+  },
+  {
+    "name": "Pembroke",
+    "website": "http://www.pembroke-ma.gov"
+  },
+  {
+    "name": "Pepperell",
+    "website": "http://www.town.pepperell.ma.us/"
+  },
+  {
+    "name": "Peru",
+    "website": "https://www.townofperuma.com/"
+  },
+  {
+    "name": "Petersham",
+    "website": "http://www.townofpetersham.org/"
+  },
+  {
+    "name": "Phillipston",
+    "website": "http://www.phillipston-ma.gov"
+  },
+  {
+    "name": "Pittsfield",
+    "website": "https://www.cityofpittsfield.org/"
+  },
+  {
+    "name": "Plainfield",
+    "website": "https://plainfield-ma.us/"
+  },
+  {
+    "name": "Plainville",
+    "website": "https://www.plainville.ma.us/"
+  },
+  {
+    "name": "Plymouth",
+    "website": "http://www.plymouth-ma.gov/"
+  },
+  {
+    "name": "Plympton",
+    "website": "https://www.town.plympton.ma.us/"
+  },
+  {
+    "name": "Princeton",
+    "website": "http://town.princeton.ma.us/"
+  },
+  {
+    "name": "Provincetown",
+    "website": "http://www.provincetown-ma.gov/"
+  },
+  {
+    "name": "Quincy",
+    "website": "http://www.quincyma.gov"
+  },
+  {
+    "name": "Randolph",
+    "website": "http://www.randolph-ma.gov"
+  },
+  {
+    "name": "Raynham",
+    "website": "http://www.town.raynham.ma.us/"
+  },
+  {
+    "name": "Reading",
+    "website": "http://www.readingma.gov/"
+  },
+  {
+    "name": "Rehoboth",
+    "website": "https://www.rehobothma.gov/"
+  },
+  {
+    "name": "Revere",
+    "website": "https://www.revere.org/"
+  },
+  {
+    "name": "Richmond",
+    "website": "http://www.richmondma.org"
+  },
+  {
+    "name": "Rochester",
+    "website": "http://townofrochestermass.com"
+  },
+  {
+    "name": "Rockland",
+    "website": "http://rockland-ma.gov/"
+  },
+  {
+    "name": "Rockport",
+    "website": "http://www.rockportma.gov/"
+  },
+  {
+    "name": "Rowe",
+    "website": "http://www.rowe-ma.gov/"
+  },
+  {
+    "name": "Rowley",
+    "website": "http://www.townofrowley.net"
+  },
+  {
+    "name": "Royalston",
+    "website": "http://www.royalston-ma.gov"
+  },
+  {
+    "name": "Russell",
+    "website": "http://www.townofrussell.us"
+  },
+  {
+    "name": "Rutland",
+    "website": "https://www.rutlandma.gov/"
+  },
+  {
+    "name": "Salem",
+    "website": "https://www.salemma.gov/"
+  },
+  {
+    "name": "Salisbury",
+    "website": "http://www.salisburyma.gov/"
+  },
+  {
+    "name": "Sandisfield",
+    "website": "http://www.sandisfieldma.gov/"
+  },
+  {
+    "name": "Sandwich",
+    "website": "http://www.sandwichmass.org/"
+  },
+  {
+    "name": "Saugus",
+    "website": "http://www.saugus-ma.gov"
+  },
+  {
+    "name": "Savoy",
+    "website": "https://townofsavoy.com/"
+  },
+  {
+    "name": "Scituate",
+    "website": "http://www.scituatema.gov/"
+  },
+  {
+    "name": "Seekonk",
+    "website": "http://www.seekonk-ma.gov"
+  },
+  {
+    "name": "Sharon",
+    "website": "http://www.townofsharon.net/"
+  },
+  {
+    "name": "Sheffield",
+    "website": "http://www.sheffieldma.gov"
+  },
+  {
+    "name": "Shelburne",
+    "website": "http://www.townofshelburne.com/"
+  },
+  {
+    "name": "Sherborn",
+    "website": "http://www.sherbornma.org"
+  },
+  {
+    "name": "Shirley",
+    "website": "http://www.shirley-ma.gov/"
+  },
+  {
+    "name": "Shrewsbury",
+    "website": "https://shrewsburyma.gov/"
+  },
+  {
+    "name": "Shutesbury",
+    "website": "http://www.shutesbury.org"
+  },
+  {
+    "name": "Somerset",
+    "website": "http://www.townofsomerset.org/"
+  },
+  {
+    "name": "Somerville",
+    "website": "http://www.somervillema.gov"
+  },
+  {
+    "name": "South Hadley",
+    "website": "http://www.southhadley.org/"
+  },
+  {
+    "name": "Southampton",
+    "website": "https://townofsouthampton.org/"
+  },
+  {
+    "name": "Southborough",
+    "website": "https://www.southboroughma.gov/"
+  },
+  {
+    "name": "Southbridge",
+    "website": "http://www.ci.southbridge.ma.us/"
+  },
+  {
+    "name": "Southwick",
+    "website": "http://www.southwickma.org/"
+  },
+  {
+    "name": "Spencer",
+    "website": "http://www.spencerma.gov"
+  },
+  {
+    "name": "Springfield",
+    "website": "https://www.springfield-ma.gov/cos/"
+  },
+  {
+    "name": "Sterling",
+    "website": "http://www.sterling-ma.gov"
+  },
+  {
+    "name": "Stockbridge",
+    "website": "https://www.stockbridge-ma.gov/"
+  },
+  {
+    "name": "Stoneham",
+    "website": "http://www.stoneham-ma.gov"
+  },
+  {
+    "name": "Stoughton",
+    "website": "https://www.stoughton.org/"
+  },
+  {
+    "name": "Stow",
+    "website": "http://www.stow-ma.gov/"
+  },
+  {
+    "name": "Sturbridge",
+    "website": "https://www.sturbridge.gov/"
+  },
+  {
+    "name": "Sudbury",
+    "website": "https://sudbury.ma.us/"
+  },
+  {
+    "name": "Sunderland",
+    "website": "http://www.townofsunderland.us/"
+  },
+  {
+    "name": "Sutton",
+    "website": "http://www.suttonma.org/"
+  },
+  {
+    "name": "Swampscott",
+    "website": "https://www.swampscottma.gov/"
+  },
+  {
+    "name": "Swansea",
+    "website": "https://www.swanseama.gov/"
+  },
+  {
+    "name": "Taunton",
+    "website": "http://www.taunton-ma.gov/"
+  },
+  {
+    "name": "Templeton",
+    "website": "https://www.templetonma.gov/"
+  },
+  {
+    "name": "Tewksbury",
+    "website": "https://www.tewksbury-ma.gov/"
+  },
+  {
+    "name": "Tisbury",
+    "website": "http://www.tisburyma.gov"
+  },
+  {
+    "name": "Tolland",
+    "website": "http://www.tolland-ma.gov"
+  },
+  {
+    "name": "Topsfield",
+    "website": "http://www.topsfield-ma.gov/"
+  },
+  {
+    "name": "Townsend",
+    "website": "https://www.townsendma.gov/"
+  },
+  {
+    "name": "Truro",
+    "website": "http://www.truro-ma.gov"
+  },
+  {
+    "name": "Tyngsborough",
+    "website": "http://www.tyngsboroughma.gov/"
+  },
+  {
+    "name": "Tyringham",
+    "website": "http://www.tyringham-ma.gov/"
+  },
+  {
+    "name": "Upton",
+    "website": "http://www.uptonma.gov/"
+  },
+  {
+    "name": "Uxbridge",
+    "website": "http://www.uxbridge-ma.gov/"
+  },
+  {
+    "name": "Wakefield",
+    "website": "http://www.wakefield.ma.us/"
+  },
+  {
+    "name": "Wales",
+    "website": "http://www.townofwales.net/"
+  },
+  {
+    "name": "Walpole",
+    "website": "http://www.walpole-ma.gov/"
+  },
+  {
+    "name": "Waltham",
+    "website": "http://www.city.waltham.ma.us/"
+  },
+  {
+    "name": "Ware",
+    "website": "http://www.townofware.com/"
+  },
+  {
+    "name": "Wareham",
+    "website": "http://www.wareham.ma.us/"
+  },
+  {
+    "name": "Warren",
+    "website": "http://www.warren-ma.gov"
+  },
+  {
+    "name": "Warwick",
+    "website": "http://www.warwickma.org"
+  },
+  {
+    "name": "Washington",
+    "website": "http://www.washington-ma.com/"
+  },
+  {
+    "name": "Watertown",
+    "website": "http://www.watertown-ma.gov"
+  },
+  {
+    "name": "Wayland",
+    "website": "http://www.wayland.ma.us/"
+  },
+  {
+    "name": "Webster",
+    "website": "http://www.webster-ma.gov"
+  },
+  {
+    "name": "Wellesley",
+    "website": "http://www.wellesleyma.gov"
+  },
+  {
+    "name": "Wellfleet",
+    "website": "https://www.wellfleet-ma.gov/"
+  },
+  {
+    "name": "Wendell",
+    "website": "http://www.wendellmass.us/"
+  },
+  {
+    "name": "Wenham",
+    "website": "http://www.wenhamma.gov/"
+  },
+  {
+    "name": "West Boylston",
+    "website": "http://www.westboylston-ma.gov"
+  },
+  {
+    "name": "West Bridgewater",
+    "website": "http://www.westbridgewaterma.org/"
+  },
+  {
+    "name": "West Brookfield",
+    "website": "http://www.wbrookfield.com/"
+  },
+  {
+    "name": "West Newbury",
+    "website": "https://www.wnewbury.org/"
+  },
+  {
+    "name": "West Springfield",
+    "website": "http://www.townofwestspringfield.org/"
+  },
+  {
+    "name": "West Stockbridge",
+    "website": "http://www.weststockbridge-ma.gov"
+  },
+  {
+    "name": "West Tisbury",
+    "website": "http://www.westtisbury-ma.gov/"
+  },
+  {
+    "name": "Westborough",
+    "website": "http://www.town.westborough.ma.us/"
+  },
+  {
+    "name": "Westfield",
+    "website": "http://www.cityofwestfield.org/"
+  },
+  {
+    "name": "Westford",
+    "website": "https://westfordma.gov/"
+  },
+  {
+    "name": "Westhampton",
+    "website": "http://www.westhampton-ma.com/"
+  },
+  {
+    "name": "Westminster",
+    "website": "http://www.westminster-ma.gov"
+  },
+  {
+    "name": "Weston",
+    "website": "http://www.weston.org/"
+  },
+  {
+    "name": "Westport",
+    "website": "http://www.westport-ma.com"
+  },
+  {
+    "name": "Westwood",
+    "website": "http://www.townhall.westwood.ma.us/"
+  },
+  {
+    "name": "Weymouth",
+    "website": "http://www.weymouth.ma.us/"
+  },
+  {
+    "name": "Whately",
+    "website": "http://www.whately.org"
+  },
+  {
+    "name": "Whitman",
+    "website": "http://www.whitman-ma.gov/"
+  },
+  {
+    "name": "Wilbraham",
+    "website": "http://www.wilbraham-ma.gov"
+  },
+  {
+    "name": "Williamsburg",
+    "website": "https://www.burgy.org/"
+  },
+  {
+    "name": "Williamstown",
+    "website": "https://williamstownma.gov/"
+  },
+  {
+    "name": "Wilmington",
+    "website": "https://www.wilmingtonma.gov/"
+  },
+  {
+    "name": "Winchendon",
+    "website": "http://www.townofwinchendon.com/"
+  },
+  {
+    "name": "Winchester",
+    "website": "http://www.winchester.us/"
+  },
+  {
+    "name": "Windsor",
+    "website": "http://www.windsormass.com/"
+  },
+  {
+    "name": "Winthrop",
+    "website": "http://www.town.winthrop.ma.us/"
+  },
+  {
+    "name": "Woburn",
+    "website": "https://www.woburnma.gov/"
+  },
+  {
+    "name": "Worcester",
+    "website": "http://www.worcesterma.gov"
+  },
+  {
+    "name": "Worthington",
+    "website": "http://www.worthington-ma.us/"
+  },
+  {
+    "name": "Wrentham",
+    "website": "https://www.wrentham.gov/"
+  },
+  {
+    "name": "Yarmouth",
+    "website": "http://www.yarmouth.ma.us/"
+  }
+]
