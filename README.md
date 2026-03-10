@@ -6,8 +6,7 @@ requests to municipalities across the United States, targeting:
 - Automated License Plate Recognition (ALPR) surveillance infrastructure
 - Fusion center data sharing agreements
 
-Findings are published publicly on this repository and contributed to the 
-[Deflock](https://deflock.me) network.
+Findings are published publicly on this repository.
 
 ## Why
 
