@@ -6,7 +6,7 @@ requests to municipalities across the United States, targeting:
 - Automated License Plate Recognition (ALPR) surveillance infrastructure
 - Fusion center data sharing agreements
 
-Findings are published publicly on this repository.
+Findings are published publicly on this repository. You can use them however youd like!
 
 ## Why
 
