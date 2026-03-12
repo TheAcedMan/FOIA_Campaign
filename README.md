@@ -1,6 +1,8 @@
 # FOIA Campaign!
 
-![Eye Icon](assets/eyecon.png)
+<p align="center">
+  <img src="assets/eyecon.png" width="150" alt="Eye Icon">
+</p>
 
 A Python-based automation project for filing Freedom of Information Act (FOIA) 
 requests to municipalities across the United States, targeting:
