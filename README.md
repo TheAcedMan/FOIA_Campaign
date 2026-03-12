@@ -10,7 +10,7 @@ Findings are published publicly on this repository. You can use them however you
 
 ## Why
 
-Local governments are deploying mass surveillance infrastructure — Flock Safety 
+Privacy! Local governments are deploying mass surveillance infrastructure — Flock Safety 
 cameras, ALPR networks, and fusion center data sharing — with little public 
 awareness or oversight. This project uses public records law to document what 
 exists, where, and who has access to the data.
