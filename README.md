@@ -4,7 +4,7 @@ A Python-based automation project for filing Freedom of Information Act (FOIA)
 requests to municipalities across the United States, targeting:
 
 - Automated License Plate Recognition (ALPR) surveillance infrastructure
-- Fusion center data sharing agreements
+- Fusion center data sharing agreements (This one is a WIP)
 
 Findings are published publicly on this repository. You can use them however youd like!
 
