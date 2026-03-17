@@ -28,16 +28,11 @@ python3 sender.py
 
 ## Known Issues
 
-8 towns are missing emails from the Mass.gov PDF and need to be filled 
+2 (previously 8, but updated 3/17/26) towns are missing emails from the Mass.gov PDF and need to be filled 
 in manually in targets.json:
 
-- Chesterfield
-- Easthampton
-- Lynnfield
-- Manchester-by-the-Sea
+
 - Mount Washington
-- Newburyport
-- Wareham
 - Westhampton
 
 ## Status
