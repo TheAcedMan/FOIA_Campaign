@@ -1,15 +1,32 @@
 import smtplib
 import json
 import os
+import time
+from datetime import datetime
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from dotenv import load_dotenv
 
-#LOAD CREDENTIALS ----------------------------------------------------------------------
+# LOAD CREDENTIALS-------------------------------------------------------------------------------------
 load_dotenv("../../.env")
 GMAIL = os.getenv("GMAIL_ADDRESS")
 PASSWORD = os.getenv("GMAIL_APP_PASSWORD")
 REPLY_TO = os.getenv("REPLY_TO")
+
+# CONFIG------------------------------------------------------------------------------------------------
+DRY_RUN = True
+DELAY_SECONDS = 10
+LOG_FILE = "sent_log.txt"
+
+def load_sent():
+    if not os.path.exists(LOG_FILE):
+        return set()
+    with open(LOG_FILE) as f:
+        return set(line.strip() for line in f.readlines())
+
+def log_sent(town_name):
+    with open(LOG_FILE, "a") as f:
+        f.write(f"{town_name}\n")
 
 def send_email(to_address, town_name):
     subject = f"Public Records Request - ALPR and Surveillance Technology - {town_name}"
@@ -33,7 +50,6 @@ If any portion of this request is denied, please specify the exemption claimed.
 Thank you,
 FOIA Campaign Research
 {REPLY_TO}"""
-
     msg = MIMEMultipart()
     msg["From"] = GMAIL
     msg["To"] = to_address
@@ -42,21 +58,64 @@ FOIA Campaign Research
     msg.attach(MIMEText(body, "plain"))
     return msg
 
-def send_foia(to_address, town_name, dry_run=True):
+def send_foia(to_address, town_name):
     msg = send_email(to_address, town_name)
-    if dry_run:
+    if DRY_RUN:
         print(f"[DRY RUN] Would send to: {town_name} <{to_address}>")
-        return
+        return True
     try:
         with smtplib.SMTP("smtp.gmail.com", 587) as server:
             server.starttls()
             server.login(GMAIL, PASSWORD)
             server.sendmail(GMAIL, to_address, msg.as_string())
-            print(f"Sent to: {town_name} <{to_address}>")
+            print(f"[SENT] {town_name} <{to_address}>")
+            return True
     except Exception as e:
-        print(f"Failed to send to {town_name}: {e}")
+        print(f"[FAILED] {town_name}: {e}")
+        return False
 
-print(f"Sending from: {GMAIL}")
-print(f"Reply-to: {REPLY_TO}")
-#CHANGE THIS FROM TRUE TO FALSE TO ACTUALLY SEND YOURSELF AND EMAIL ------------------------------------------
-send_foia(REPLY_TO, "Test Town", dry_run=True)
+def main():
+    with open("targets.json") as f:
+        targets = json.load(f)
+
+    sent = load_sent()
+    skipped_no_email = []
+    skipped_already_sent = []
+    failed = []
+    success = 0
+
+    print(f"Loaded {len(targets)} towns")
+    print(f"Already sent: {len(sent)}")
+    print(f"DRY RUN: {DRY_RUN}")
+    print("="*50)
+
+    for town in targets:
+        name = town["name"]
+        email = town.get("email", "")
+
+        if not email:
+            skipped_no_email.append(name)
+            continue
+
+        if name in sent:
+            skipped_already_sent.append(name)
+            continue
+
+        result = send_foia(email, name)
+
+        if result:
+            if not DRY_RUN:
+                log_sent(name)
+                time.sleep(DELAY_SECONDS)
+            success += 1
+        else:
+            failed.append(name)
+
+    print("\n" + "="*50)
+    print(f"Sent/previewed:  {success}")
+    print(f"Already sent:    {len(skipped_already_sent)}")
+    print(f"No email:        {len(skipped_no_email)} {skipped_no_email}")
+    print(f"Failed:          {len(failed)}")
+
+if __name__ == "__main__":
+    main()
