@@ -14,7 +14,7 @@ PASSWORD = os.getenv("GMAIL_APP_PASSWORD")
 REPLY_TO = os.getenv("REPLY_TO")
 
 # CONFIG------------------------------------------------------------------------------------------------
-DRY_RUN = True
+DRY_RUN = False
 DELAY_SECONDS = 10
 LOG_FILE = "sent_log.txt"
 
