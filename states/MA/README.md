@@ -37,6 +37,7 @@ in manually in targets.json:
 
 ## Status
 
+## - 349 out of 351 have been submitted, however I see that about 131 got a soft bounce, as well as some of them got immediete "I am not the person to go to for this request" responses, so I will be going through those manually and redoing those.
 - Targets built: 349/351
 - Requests sent: 0
 - Responses received: 0
