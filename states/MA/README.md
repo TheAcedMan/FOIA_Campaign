@@ -37,7 +37,7 @@ in manually in targets.json:
 
 ## Status
 
-- Targets built: 343/351
+- Targets built: 349/351
 - Requests sent: 0
 - Responses received: 0
 
