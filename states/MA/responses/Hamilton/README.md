@@ -6,9 +6,9 @@
 
 ## Status
 
-- [ ] Request sent
+- [x] Request sent
 - [ ] Response received
-- [ ] Records obtained
+- [ ] **Has ALPR cameras:** Unknown
 
 ## Notes
 
