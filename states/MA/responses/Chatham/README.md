@@ -6,8 +6,8 @@
 
 ## Status
 
-- [X] Request sent
-- [X] Response received
+- [ ] Request sent
+- [ ] Response received
 - [ ] Records obtained
 
 ## Notes
