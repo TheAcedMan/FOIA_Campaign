@@ -7,8 +7,8 @@
 ## Status
 
 - [x] Request sent
-- [ ] Response received
-- [ ] **Has ALPR cameras:** Unknown
+- [X] Response received
+- [X] **Has ALPR cameras:** NO
 
 ## Notes
 
